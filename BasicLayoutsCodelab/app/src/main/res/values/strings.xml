@@ -12,21 +12,22 @@
   the License.
   -->
 <resources>
-    <string name="app_name">MySoothe</string>
-    <string name="favorite_collections">Favorite Collections</string>
-    <string name="align_your_body">Align your Body</string>
-    <string name="ab1_inversions">Inversions</string>
-    <string name="ab2_quick_yoga">Quick yoga</string>
-    <string name="ab3_stretching">Stretching</string>
-    <string name="ab4_tabata">Tabata</string>
-    <string name="ab5_hiit">HIIT</string>
-    <string name="ab6_pre_natal_yoga">Pre-natal yoga</string>
-    <string name="fc1_short_mantras">Short mantras</string>
-    <string name="fc2_nature_meditations">Nature meditations</string>
-    <string name="fc3_stress_and_anxiety">Stress and anxiety</string>
-    <string name="fc4_self_massage">Self massage</string>
-    <string name="fc5_overwhelmed">Overwhelmed</string>
-    <string name="fc6_nightly_wind_down">Nightly wind down</string>
+    <string name="app_name">Cartoons</string>
+    <string name="Special_Content">Special Content</string>
+    <string name="The_Best_Cartoon">The Best Cartoon</string>
+    <string name="Coraje_Perro_Cobarde">Coraje el Perro Cobarde</string>
+    <string name="Mas_Alla_del_Jardin">Más Alla del Jardin</string>
+    <string name="Samurai_Jack">Samurai Jack</string>
+    <string name="Johnny_Bravo">Johnny Bravo</string>
+    <string name="Regular_Show">Regular Show</string>
+    <string name="Teen_Titans">Teen Titans</string>
+    <string name="The_Amazing_World_of_Gumball">The Amazing World of Gumball</string>
+    <string name="CN_Artworks">Artworks</string>
+    <string name="CN_Movies">Movies</string>
+    <string name="CN_Special_Chrismas">Special Chrismas</string>
+    <string name="CN_Anniversary">CN Aniversary 30th</string>
+    <string name="CN_Series_Expansives">Series Expansives</string>
+    <string name="CN_ReDraw_Your_World">ReDraw Your World</string>
     <string name="cd_fab_start">start</string>
     <string name="bottom_navigation_home">Home</string>
     <string name="bottom_navigation_profile">Profile</string>
